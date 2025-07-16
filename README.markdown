@@ -56,13 +56,8 @@ This Python script simulates the Lorenz system, a set of differential equations 
 ## Example Output
 Below are examples of the generated plots for a 1000-point simulation over 50 time units:
 
-**2D Plots**:
-![2D Lorenz Plot](lorLsenz_2d_plot.png)
-
 **3D Plot**:
 ![3D Lorenz Plot](lorenz_3d_plot.png)
-
-*(Note: Add screenshots of the plots by running the script and uploading the generated PNG files to the repository.)*
 
 ## Code Explanation
 - **Function**: `lorenz_derivatives(state, time)`
